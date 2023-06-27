@@ -1,3 +1,3 @@
 public class test {
-    public String name;
+    public String name1;
 }
